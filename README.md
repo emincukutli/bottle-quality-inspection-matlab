@@ -26,5 +26,5 @@ The script processes bottle images from a directory and performs four main quali
 
 Below is a sample run showcasing the full workspace.
 
-<img width="1300/2" height="762/2" alt="Ekran Resmi 2026-08-21 11 33 40" src="https://github.com/user-attachments/assets/f73f0643-7eec-4e25-a310-966c06b52431" />
+<img width="1300" height="762" alt="Ekran Resmi 2026-08-21 11 33 40" src="https://github.com/user-attachments/assets/f73f0643-7eec-4e25-a310-966c06b52431" />
 
