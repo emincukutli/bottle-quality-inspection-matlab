@@ -21,3 +21,9 @@ The script processes bottle images from a directory and performs four main quali
 2. Update the folder path at the top of the script to your local image directory:
    ```matlab
    cd 'path_to_your_images_folder';
+
+### Results 
+
+Below is a sample run showcasing the full workspace.
+<img width="801" height="415" alt="Ekran Resmi 2026-08-21 11 29 06" src="https://github.com/user-attachments/assets/cc0bbf9c-ceb9-4429-a89e-e70ede415611" />
+
